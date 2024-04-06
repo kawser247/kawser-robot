@@ -1,5 +1,5 @@
 module.exports.config = {
-	name: "info",
+	name: "admin",
 	version: "1.0.1", 
 	hasPermssion: 0,
 	credits: "AYAN",
@@ -31,6 +31,8 @@ var callback = () => api.sendMessage({body:`𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 �
 
 ✿︎𝔹𝕠𝕥 𝔸𝕕𝕞𝕚𝕟✿︎ ☞︎︎︎ 𝙍𝙊𝘾𝙆𝙎𝙏𝘼𝙍 𝙆𝘼𝙒𝙎𝙀𝙍
 
+𝙈𝘼𝘾𝙆 𝘽𝙊𝙏:𝙀𝙒-𝙧 𝙅𝙖𝙣𝙣𝙖𝙣𝙞
+
 ༆ 𝐁𝐨𝐭 𝐎𝐰𝐧𝐞𝐫 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐈𝐃 𝐋𝐢𝐧𝐤 :\n➪ https://www.facebook.com/profile.php?id=61557671454818
 👋𝔽𝕠𝕣 𝔸𝕟𝕪 𝕂𝕚𝕟𝕕 𝕆𝕗 ℍ𝕖𝕝𝕡 ℂ𝕠𝕟𝕥𝕒𝕔𝕥 𝕆𝕟 𝔽𝕓 :\n➪ ♕︎𝙍𝙊𝘾𝙆𝙎𝙏𝘼𝙍 𝙆𝘼𝙒𝙎𝙀𝙍♕︎
 
@@ -52,6 +54,8 @@ var callback = () => api.sendMessage({body:`𝐀𝐃𝐌𝐈𝐍 𝐀𝐍𝐃 �
 ♕︎𝗛𝗲𝗿𝗲 𝗶𝘀 𝗕𝗼𝘁 𝗢𝘄𝗻𝗲𝗿 𝗻𝗮𝗺𝗲➪
 
 ♕︎𝙍𝙊𝘾𝙆𝙎𝙏𝘼𝙍 𝙆𝘼𝙒𝙎𝙀𝙍♕︎
+
+for Facebook link:https://www.facebook.com/profile.php?id=100085082042087
 
 
 `,attachment: fs.createReadStream(__dirname + "/cache/juswa.jpg")}, event.threadID, () => fs.unlinkSync(__dirname + "/cache/juswa.jpg")); 
