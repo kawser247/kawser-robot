@@ -10,7 +10,7 @@
         "autoreact.js",
         "resend.js"
     ],
-    "eventDisabled": [bot],
+    "eventDisabled": [],
     "EMAIL": "kawsermnlff@gmail.com",
     "PASSWORD": "nai",
     "OTPKEY": "",
