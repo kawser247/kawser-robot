@@ -28,10 +28,10 @@
 
 <div align="center">
 			<h3>My Replit Account ->
-			<a href="https://replit.com/@CliffvincentTor" style="color: green;">@Ayanchoudhuri🔥</a>
+			<a href="https://replit.com/@CliffvincentTor" style="color: green;">@Rockstar kawser🔥</a>
 				<br>
 	My Facebook Account ->
-	<a href="https://www.facebook.com/swordigo.swordslush?mibextid=rS40aB7S9Ucbxw6v" style="color: black;">Ayan🚀</a></h3></div>
+	<a href="https://www.facebook.com/swordigo.swordslush?mibextid=rS40aB7S9Ucbxw6v" style="color: black;">kawser🚀</a></h3></div>
 
 <img align="center" src="https://i.imgur.com/4sBxoQG.jpeg"/>
 
@@ -39,15 +39,15 @@
 🔹Mohammad Ayan
 
 
-# Editing AYAN CHOWDHURY😘
+# Editin-Rockstar kawser😘
 
-# AYAN-SUPPER-ROBOT real owner AYAN CHOWDHURY🙂
+# kawser-SUPPER-ROBOT real owner Rockstar kawser🙂
 
-# Everyone run this AYAN-ROBOT for fun
+# Everyone run this kawser-ROBOT for fun
 
 # If there is any error, I will fix it by knocking on Facebook
 
-# https://www.facebook.com/AYAN.JANU.LOVE.YOU.MY.HEART
+# https://www.facebook.com/profile.php?id=61550626302420
 
 # I hope you enjoy
 
