@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "kick",
 	version: "0.0.1",
 	hasPermssion: 1,
-	credits: "CHAND",
+	credits: "𝙍𝙊𝘾𝙆𝙎𝙏𝘼𝙍 𝙆𝘼𝙒𝙎𝙀𝙍",
 	description: "",
 	commandCategory: "Group",
 	usages: "kick @mention",
