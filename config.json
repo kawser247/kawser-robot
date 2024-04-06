@@ -10,12 +10,12 @@
         "autoreact.js",
         "resend.js"
     ],
-    "eventDisabled": [],
+    "eventDisabled": [bot],
     "EMAIL": "kawsermnlff@gmail.com",
     "PASSWORD": "nai",
     "OTPKEY": "",
     "BOTNAME": "•  ➠𝙆𝘼𝙒𝙎𝙀𝙍 ➠𝙍𝙊𝘽𝙊𝙏",
-    "PREFIX": ".",
+    "PREFIX": "/",
     "ADMINBOT": [
         "",
         "61557671454818"
