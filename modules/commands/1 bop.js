@@ -5,7 +5,7 @@ module.exports.config = {
   name: "bop",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "AYAN",
+  credits: "KAWSER",
   description: "Bóp mông người bạn tag",
   commandCategory: "Lệnh 18+",
   usages: "[tag]",
